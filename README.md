@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Rui Sun, PhD Economics, @Graduate Center, CUNY
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently looking for jobs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Rui Sun, PhD Economics, Graduate Center, CUNY
+- 👀 I’m interested in Machine Learning, Computational Economics
+- 🌱 I’m currently teaching at Queens College
+- 💞️ I’m looking to collaborate on any exciting projects
+- 📫 How to reach me: sunruiucas@gmail.com
 
 <!---
 everyday6407/everyday6407 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
