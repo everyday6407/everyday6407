@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Rui Sun (孙睿), PhD Economics, Graduate Center, City University of New York
+- 👋 Hi, I’m Rui Sun (孙睿)
+- ✨ PhD Economics, Graduate Center, City University of New York
 - 👀 I’m interested in Financial Economics, Machine Learning
 - 🌱 I’m currently teaching at Queens College, and Baruch College
 - 💞️ I’m looking forward to working with you
